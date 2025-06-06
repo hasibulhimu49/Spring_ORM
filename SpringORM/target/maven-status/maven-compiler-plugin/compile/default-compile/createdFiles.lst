@@ -1,0 +1,3 @@
+com\spring\orm\entities\Student.class
+com\spring\orm\dao\StudentDao.class
+com\spring\orm\SpringORM.class
