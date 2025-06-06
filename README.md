@@ -3,7 +3,7 @@
 This documentation is based on the YouTube tutorial:
 
 🎥 **Title:** Completing My Database Application using Spring ORM
-📺 **Channel:** [Learn with Durgesh](https://www.youtube.com/@learnwithdurgesh)
+📺 **Channel:** [Learn with Durgesh](https://www.youtube.com/@LearnCodeWithDurgesh)
 
 ---
 
