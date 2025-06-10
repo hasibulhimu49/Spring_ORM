@@ -150,7 +150,7 @@ Use this as a **learning template** or **kickstart for real apps**!
 
 ---
 ```
-📚 Spring ORM Topics
+📚 Spring ORM All Topics
 
 - Introduction to Spring ORM Module  
 - Understanding Object-Relational Mapping (ORM) Concepts  
