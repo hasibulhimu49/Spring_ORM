@@ -149,5 +149,21 @@ How its works:
 Use this as a **learning template** or **kickstart for real apps**!
 
 ---
+```
+📚 Spring ORM Topics
 
-Happy Learning! 🎯
+- Introduction to Spring ORM Module  
+- Understanding Object-Relational Mapping (ORM) Concepts  
+- Integration of Hibernate with Spring  
+- Configuring SessionFactory in Spring  
+- Managing Hibernate Sessions and Transactions  
+- Using `HibernateTemplate` (optional, legacy)  
+- Mapping Entities with Hibernate Annotations (`@Entity`, `@Table`, `@Id`, etc.)  
+- Working with Hibernate Query Language (HQL)  
+- Handling Lazy vs Eager Loading  
+- Managing Relationships (One-to-One, One-to-Many, Many-to-One, Many-to-Many)  
+- Using Criteria API and Query by Example (QBE)  
+- Transaction Management in Spring ORM  
+- Exception Handling and Translation with `@Repository`  
+- Integrating Spring ORM with Spring Transaction Management  
+- Testing Spring ORM Components  
